@@ -1,4 +1,3 @@
-# keystroke
 <!-- html for keystroke -->
 
 <html>
