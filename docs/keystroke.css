@@ -1,0 +1,36 @@
+/*keystroke css*/
+
+#normaltext{
+	color: black;
+	position: absolute;
+	font-family: Tahoma, Geneva, sans-serif;
+  	max-height: 2em;
+  	max-width: 40%;
+  	margin: 1%;
+  	padding-top: 0px;
+  	font-size: 1.2em;
+}
+
+#textboxdiv{
+	position: absolute;
+  	left: 560px;
+  	top: 25px;
+
+
+}
+
+#textbox{
+	width: 140%;
+	height: 550px;
+	font-family: Tahoma, Geveva, sans-serif;
+	font-size: 1.2em;
+	border-style: solid;
+	border-color: gray;
+	border-width: 2px;
+
+}
+
+#textboxcaption{
+	color: gray;
+	font-family: Tahoma, Geneva, sans-serif;
+}
