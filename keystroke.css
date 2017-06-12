@@ -3,6 +3,7 @@
 #normaltext{
 	color: black;
 	position: absolute;
+	left: -20px
 	font-family: Tahoma, Geneva, sans-serif;
   	max-height: 2em;
   	max-width: 35%;
@@ -13,7 +14,7 @@
 
 #textboxdiv{
 	position: absolute;
-  	left: 560px;
+  	left: 580px;
   	top: 25px;
 
 
