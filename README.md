@@ -8,7 +8,6 @@
 
 <body>
 <div id="normaltext">
-<h3> Random Paragraph </h3>
 <!--Insert random paragraph to be typed here-->
 <p>So land fowl seed fourth be i she'd bearing evening dry fill together third. Seasons first fourth, saw wherein evening deep. She'd fruit it give very winged blessed day male let had she'd together after void wherein open be you're form. You void image all every light wherein gathering living green heaven. Fourth. Winged it Have They're every lights own given great fruit years cattle, blessed hath Open which form multiply fourth evening.
 </p>
