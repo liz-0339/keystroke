@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+<!-- html for keystroke -->
 
-You can use the [editor on GitHub](https://github.com/liz-0339/keystroke/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+<script type = "text/javascript" src = "./keystroke.js"></script>
+<link rel = "stylesheet" title="stylesheet" type="text/css" href = "keystroke.css" media="all"/>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<div id="normaltext">
+<h3> Random Paragraph </h3>
+<!--Insert random paragraph to be typed here-->
+So land fowl seed fourth be i she'd bearing evening dry fill together third. Seasons first fourth, saw wherein evening deep. She'd fruit it give very winged blessed day male let had she'd together after void wherein open be you're form. You void image all every light wherein gathering living green heaven. Fourth. Winged it Have They're every lights own given great fruit years cattle, blessed hath Open which form multiply fourth evening.
+</br></br>
+Under fourth yielding made third there their bearing creeping lesser. Darkness sea midst were spirit green itself. Face let land created be second blessed which tree abundantly Bring. Seasons day land gathered. God greater gathered seas together called own saying fruitful. Set fourth days without heaven shall fourth morning said doesn't he under subdue. Beginning isn't multiply herb fruitful also made. Tree fowl may make given whose creeping evening appear kind hath deep air two made land firmament, god seasons also created beast day him you signs.
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liz-0339/keystroke/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div id = "textboxdiv">
+	<div id = "textboxcaption"> Click the box and begin typing the paragraph on the left.</div>
+	
+	<textarea rows="10" cols="26" id="textbox"></textarea>
+	
+</div>
+</body>
+</html>
