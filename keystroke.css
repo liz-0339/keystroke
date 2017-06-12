@@ -1,11 +1,11 @@
 /*keystroke css*/
 
 #normaltext{
-	color: black;
+	color: red;
 	position: absolute;
 	font-family: Tahoma, Geneva, sans-serif;
   	max-height: 2em;
-  	max-width: 37%;
+  	max-width: 35%;
   	
   	padding-top: 0px;
   	font-size: 1.2em;
